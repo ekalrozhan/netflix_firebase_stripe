@@ -9,7 +9,7 @@ function HomeScreen() {
 
       <Banner />
 
-      {/* row */}
+      
     </div>
   );
 }
